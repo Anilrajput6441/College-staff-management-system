@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  block-size:border-box ;
+  font-family: Gill Sans;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #111;
+}
